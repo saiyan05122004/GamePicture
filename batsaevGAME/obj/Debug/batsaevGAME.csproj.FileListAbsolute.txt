@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\obj\Debug\batsaevGAME.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\obj\Debug\batsaevGAME.Form1.resources
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\obj\Debug\batsaevGAME.Properties.Resources.resources
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\obj\Debug\batsaevGAME.csproj.GenerateResource.cache
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\obj\Debug\batsaevGAME.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\bin\Debug\batsaevGAME.exe.config
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\bin\Debug\batsaevGAME.exe
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\bin\Debug\batsaevGAME.pdb
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\obj\Debug\batsaevGAME.exe
+C:\Users\student\source\repos\batsaevGAME\batsaevGAME\obj\Debug\batsaevGAME.pdb
